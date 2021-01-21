@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:megaavr:nona4809:mode=on",
+    "name": "Arduino Nano Every",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
